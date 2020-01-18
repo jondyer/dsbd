@@ -1,0 +1,27 @@
+day outlook   temperature  humidity  wind    playtennis
+d1  sunny     hot          high      weak    no
+d2  sunny     hot          high      strong  no
+d3  overcast  hot          high      weak    yes
+d4  rainy     mild         high      weak    yes
+d5  rainy     cool         normal    weak    yes
+d6  rainy     cool         normal    strong  no
+d7  overcast  cool         normal    strong  yes
+d8  sunny     mild         high      weak    no
+d9  sunny     cool         normal    weak    yes
+d10 rainy     mild         normal    weak    yes
+d11 sunny     mild         normal    strong  yes
+d12 overcast  mild         high      strong  yes
+d13 overcast  hot          normal    weak    yes
+d14 rainy     mild         high      strong  no
+
+     rainy 0  overcast 1    sunny 2
+      cool 0      mild 1      hot 2
+    normal 0      high 1
+ wind weak 0    strong 1
+        no 0       yes 1
+
+
+sunny, cool, high, strong  ?
+
+
+
